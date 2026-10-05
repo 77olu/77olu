@@ -1,6 +1,6 @@
 # Hi, I'm Olu 👋
 
-I'm a sophomore at the University of Southern California studying **Computer Engineering and Computer Science**. I'm interested in embedded software, real-time systems, computer architecture, and building reliable software that interacts directly with hardware.
+I'm a sophomore at the University of Southern California studying **Computer Engineering and Computer Science**. I'm interested in embedded software, real-time systems, computer architecture, computer networking, and building reliable software that interacts directly with hardware.
 
 ## What I'm Working On
 
