@@ -11,7 +11,7 @@ I'm a sophomore at the University of Southern California studying **Computer Eng
 
 ## Technical Skills
 
-- **Languages:** C, C++, Python, Assembly
+- **Languages:** C, C++, Python, SQL, Assembly
 - **Embedded:** FreeRTOS, STM32, Embedded Linux, CAN, SPI, I2C, UART, ADC, PWM, GPIO
 - **Tools:** Git, GDB, CMake, Docker, KiCad
 - **Hardware:** PCB design, schematic analysis, SMD soldering, oscilloscopes, signal generators, and digital multimeters
