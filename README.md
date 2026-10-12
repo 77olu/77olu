@@ -5,7 +5,6 @@ I'm a sophomore at the University of Southern California studying **Computer Eng
 ## What I'm Working On
 
 - Developing **STM32F4 battery-management firmware** in C and FreeRTOS for USC Formula SAE Electric
-- Building Python tooling for **CAN telemetry, DBC decoding, log replay, and test automation**
 - Researching hardware-aware **spiking neural networks** for deployment on superconducting computing hardware
 - Exploring embedded Linux, autonomous systems, and hardware-software integration
 
